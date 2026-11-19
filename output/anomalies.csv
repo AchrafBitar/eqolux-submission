@@ -1,0 +1,8 @@
+fichier_source,numero_document,code_article,type_anomalie,description,impact_eur,revue_humaine
+Facture_MFL_relance.pdf,FA-2026-10482,,doublon,Facture FA-2026-10482 déjà reçue (MFL_FA-2026-10482.pdf) : ne pas la payer deux fois.,813.63,non
+CRB_2026-3317.pdf,2026-3317,CRB-COM03,ecart_prix,"« Comté AOP 24 mois » facturé 33,50 € / kg au lieu de 31,00 € négociés, sur 2,5 kg : 6,25 € HT en trop. Prix fermes jusqu'au 31/12/2026.",6.25,non
+DCM_FA-11873.pdf,FA-11873,DCM-CHA21,article_hors_mercuriale,"« Chablis 1er Cru 2021 75 cl » (198,00 € HT) n'est pas dans la mercuriale. Article négocié le plus proche : DCM-CHA20 « Chablis 1er Cru 2020 75 cl » à 31,50 €. Substitution à valider.",9.00,oui
+MFL_FA-2026-10482.pdf,FA-2026-10482,MFL-TUR01,ecart_prix,"« Turbot sauvage entier » facturé 47,00 € / kg au lieu de 42,00 € négociés, sur 6,4 kg : 32,00 € HT en trop.",32.00,non
+MFL_FA-2026-10482.pdf,FA-2026-10482,,frais_livraison_non_dus,"15,00 € de frais de livraison facturés alors que la commande (798,63 € HT hors frais) atteint le franco de 300,00 €.",15.00,non
+Releve_PSA_novembre_2026.pdf,FA-PSA-8807,PSA-TOM03,ecart_prix,"« Tomate ancienne mélange » facturé 9,40 € / kg au lieu de 7,90 € négociés, sur 5 kg : 7,50 € HT en trop.",7.50,oui
+Releve_PSA_novembre_2026.pdf,FA-PSA-8812,PSA-CHA01,erreur_calcul_ligne,"« Champignon Paris blanc » : 5 × 4,20 € = 21,00 €, mais la ligne est facturée 23,10 €.",2.10,non

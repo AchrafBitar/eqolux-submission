@@ -1,0 +1,9 @@
+.venv/
+.cache/
+output/
+tools/tessdata/
+docs/uml/
+__pycache__/
+.pytest_cache/
+.env
+docs

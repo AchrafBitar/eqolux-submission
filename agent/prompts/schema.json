@@ -1,0 +1,50 @@
+{
+  "type": "object",
+  "properties": {
+    "documents": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "fournisseur": {"type": "string"},
+          "type_document": {"type": "string", "enum": ["facture", "avoir"]},
+          "numero_document": {"type": "string"},
+          "date_document": {"type": "string"},
+          "duplicata": {"type": "boolean"},
+          "total_ht": {"type": "string"},
+          "total_tva": {"type": "string"},
+          "remises": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {"libelle": {"type": "string"}, "montant": {"type": "string"}},
+              "required": ["libelle", "montant"],
+              "additionalProperties": false
+            }
+          },
+          "lignes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "code_article": {"type": "string"},
+                "designation": {"type": "string"},
+                "quantite": {"type": "string"},
+                "unite": {"type": "string"},
+                "prix_unitaire_ht": {"type": "string"},
+                "montant_ht": {"type": "string"},
+                "taux_tva": {"type": "string"}
+              },
+              "required": ["code_article", "designation", "quantite", "unite", "prix_unitaire_ht", "montant_ht", "taux_tva"],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": ["fournisseur", "type_document", "numero_document", "date_document", "duplicata", "total_ht", "total_tva", "remises", "lignes"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["documents"],
+  "additionalProperties": false
+}

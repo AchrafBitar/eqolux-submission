@@ -1,0 +1,33 @@
+fichier_source,fournisseur,type_document,numero_document,date_document,code_article,designation,quantite,unite,prix_unitaire_ht,montant_ht,taux_tva
+CRB_2026-3317.pdf,Crèmerie Beaufortaine,facture,2026-3317,2026-11-04,CRB-BEU01,Beurre AOP Charentes-Poitou doux 250 g,3,carton 20 × 250 g,59.00,177.00,5.5
+CRB_2026-3317.pdf,Crèmerie Beaufortaine,facture,2026-3317,2026-11-04,CRB-CRE02,Crème crue fermière 1 L,12,L,6.80,81.60,5.5
+CRB_2026-3317.pdf,Crèmerie Beaufortaine,facture,2026-3317,2026-11-04,CRB-COM03,Comté AOP 24 mois,2.5,kg,33.50,83.75,5.5
+CRB_2026-3317.pdf,Crèmerie Beaufortaine,facture,2026-3317,2026-11-04,CRB-OEU04,Œufs plein air calibre M,4,plateau 30,11.40,45.60,5.5
+DCM_FA-11873.pdf,Domaine & Caves Morel,facture,FA-11873,2026-11-05,DCM-MEU19,Meursault 2019 75 cl,12,bt,52.00,624.00,20
+DCM_FA-11873.pdf,Domaine & Caves Morel,facture,FA-11873,2026-11-05,DCM-CHA20,Chablis 1er Cru 2020 75 cl,12,bt,31.50,378.00,20
+DCM_FA-11873.pdf,Domaine & Caves Morel,facture,FA-11873,2026-11-05,DCM-CHA21,Chablis 1er Cru 2021 75 cl,6,bt,33.00,198.00,20
+DCM_FA-11873.pdf,Domaine & Caves Morel,facture,FA-11873,2026-11-05,DCM-CHP00,Champagne brut sans année 75 cl,24,bt,28.00,672.00,20
+DCM_FA-11873.pdf,Domaine & Caves Morel,facture,FA-11873,2026-11-05,DCM-CHP00,Retour casse livraison du 28/10 - Champagne brut,-1,bt,28.00,-28.00,20
+Facture_MFL_relance.pdf,Marée Fraîche du Littoral,facture,FA-2026-10482,2026-11-03,MFL-TUR01,Turbot sauvage entier,6.4,kg,47.00,300.80,5.5
+Facture_MFL_relance.pdf,Marée Fraîche du Littoral,facture,FA-2026-10482,2026-11-03,MFL-BAR02,Bar de ligne 1-2 kg,4.85,kg,36.50,177.03,5.5
+Facture_MFL_relance.pdf,Marée Fraîche du Littoral,facture,FA-2026-10482,2026-11-03,MFL-SJQ03,Noix de Saint-Jacques fraîches,2,kg,58.00,116.00,5.5
+Facture_MFL_relance.pdf,Marée Fraîche du Littoral,facture,FA-2026-10482,2026-11-03,MFL-LAN04,Langoustines vivantes 10/15,3.2,kg,64.00,204.80,5.5
+Facture_MFL_relance.pdf,Marée Fraîche du Littoral,facture,FA-2026-10482,2026-11-03,,Frais de livraison,1,forfait,15.00,15.00,5.5
+MFL_FA-2026-10482.pdf,Marée Fraîche du Littoral,facture,FA-2026-10482,2026-11-03,MFL-TUR01,Turbot sauvage entier,6.4,kg,47.00,300.80,5.5
+MFL_FA-2026-10482.pdf,Marée Fraîche du Littoral,facture,FA-2026-10482,2026-11-03,MFL-BAR02,Bar de ligne 1-2 kg,4.85,kg,36.50,177.03,5.5
+MFL_FA-2026-10482.pdf,Marée Fraîche du Littoral,facture,FA-2026-10482,2026-11-03,MFL-SJQ03,Noix de Saint-Jacques fraîches,2,kg,58.00,116.00,5.5
+MFL_FA-2026-10482.pdf,Marée Fraîche du Littoral,facture,FA-2026-10482,2026-11-03,MFL-LAN04,Langoustines vivantes 10/15,3.2,kg,64.00,204.80,5.5
+MFL_FA-2026-10482.pdf,Marée Fraîche du Littoral,facture,FA-2026-10482,2026-11-03,,Frais de livraison,1,forfait,15.00,15.00,5.5
+Releve_PSA_novembre_2026.pdf,Primeurs Saint-Aubin,facture,FA-PSA-8801,2026-11-02,,Champignon Paris blanc,8,kg,4.20,33.60,5.5
+Releve_PSA_novembre_2026.pdf,Primeurs Saint-Aubin,facture,FA-PSA-8801,2026-11-02,,Echalote,5,kg,3.60,18.00,5.5
+Releve_PSA_novembre_2026.pdf,Primeurs Saint-Aubin,facture,FA-PSA-8801,2026-11-02,,Ciboulette,10,bte,1.10,11.00,5.5
+Releve_PSA_novembre_2026.pdf,Primeurs Saint-Aubin,facture,FA-PSA-8801,2026-11-02,,Tomate ancienne mélange,4,kg,7.90,31.60,5.5
+Releve_PSA_novembre_2026.pdf,Primeurs Saint-Aubin,facture,FA-PSA-8807,2026-11-05,,Citron Menton IGP,3,kg,12.50,37.50,5.5
+Releve_PSA_novembre_2026.pdf,Primeurs Saint-Aubin,facture,FA-PSA-8807,2026-11-05,,Champignon Paris blanc,6,kg,4.20,25.20,5.5
+Releve_PSA_novembre_2026.pdf,Primeurs Saint-Aubin,facture,FA-PSA-8807,2026-11-05,,Tomate ancienne mélange,5,kg,9.40,47.00,5.5
+Releve_PSA_novembre_2026.pdf,Primeurs Saint-Aubin,facture,FA-PSA-8812,2026-11-07,,Echalote,4,kg,3.60,14.40,5.5
+Releve_PSA_novembre_2026.pdf,Primeurs Saint-Aubin,facture,FA-PSA-8812,2026-11-07,,Ciboulette,8,bte,1.10,8.80,5.5
+Releve_PSA_novembre_2026.pdf,Primeurs Saint-Aubin,facture,FA-PSA-8812,2026-11-07,,Champignon Paris blanc,5,kg,4.20,23.10,5.5
+scan_20261106_0912.pdf,Boucherie Maison Lacombe,facture,BL-2026-0452,2026-11-06,BLC-FIL01,Filet de bœuf Charolais,3.2,kg,54.00,172.80,5.5
+scan_20261106_0912.pdf,Boucherie Maison Lacombe,facture,BL-2026-0452,2026-11-06,BLC-VOL02,Volaille de Bresse AOP,4,pce,38.00,152.00,5.5
+scan_20261106_0912.pdf,Boucherie Maison Lacombe,facture,BL-2026-0452,2026-11-06,BLC-AGN03,Carré d'agneau,2.6,kg,46.00,119.60,5.5

@@ -1,0 +1,21 @@
+code_fournisseur,fournisseur,code_article,designation,unite_prix,conditionnement,prix_negocie_ht
+MFL,Marée Fraîche du Littoral,MFL-TUR01,Turbot sauvage entier,kg,,42.00
+MFL,Marée Fraîche du Littoral,MFL-BAR02,Bar de ligne 1-2 kg,kg,,36.50
+MFL,Marée Fraîche du Littoral,MFL-SJQ03,Noix de Saint-Jacques fraîches,kg,,58.00
+MFL,Marée Fraîche du Littoral,MFL-LAN04,Langoustines vivantes 10/15,kg,,64.00
+MFL,Marée Fraîche du Littoral,MFL-CAV05,Caviar osciètre 50 g,pièce,,145.00
+CRB,Crèmerie Beaufortaine,CRB-BEU01,Beurre AOP Charentes-Poitou doux 250 g,pièce,carton de 20,2.95
+CRB,Crèmerie Beaufortaine,CRB-CRE02,Crème crue fermière 1 L,litre,,6.80
+CRB,Crèmerie Beaufortaine,CRB-COM03,Comté AOP 24 mois,kg,,31.00
+CRB,Crèmerie Beaufortaine,CRB-OEU04,Œufs plein air calibre M,pièce,plateau de 30,0.38
+PSA,Primeurs Saint-Aubin,PSA-CHA01,Champignons de Paris,kg,,4.20
+PSA,Primeurs Saint-Aubin,PSA-ECH02,Échalotes,kg,,3.60
+PSA,Primeurs Saint-Aubin,PSA-TOM03,Tomates anciennes,kg,,7.90
+PSA,Primeurs Saint-Aubin,PSA-CIT04,Citrons de Menton IGP,kg,,12.50
+PSA,Primeurs Saint-Aubin,PSA-CIB05,Ciboulette,botte,,1.10
+DCM,Domaine & Caves Morel,DCM-MEU19,Meursault 2019 75 cl,bouteille,,52.00
+DCM,Domaine & Caves Morel,DCM-CHA20,Chablis 1er Cru 2020 75 cl,bouteille,,31.50
+DCM,Domaine & Caves Morel,DCM-CHP00,Champagne brut sans année 75 cl,bouteille,,28.00
+BLC,Boucherie Maison Lacombe,BLC-FIL01,Filet de bœuf Charolais,kg,,54.00
+BLC,Boucherie Maison Lacombe,BLC-VOL02,Volaille de Bresse AOP,pièce,,38.00
+BLC,Boucherie Maison Lacombe,BLC-AGN03,Carré d'agneau,kg,,46.00
